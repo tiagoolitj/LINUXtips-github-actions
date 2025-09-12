@@ -21,7 +21,7 @@ Neste nível básico você aprenderá:
 
 2.  **Clone o seu Fork:**
     ```bash
-    git clone https://github.com/badtuxx/LINUXtips-github-actions.git
+    git clone https://github.com/SEU-USUARIO-GITHUB/LINUXtips-github-actions.git
     cd LINUXtips-github-actions
     ```
 
