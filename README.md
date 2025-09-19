@@ -6,7 +6,7 @@ Bem-vindo ao **Descomplicando GitHub Actions**! Este projeto foi criado pela com
 
 Este projeto foi desenhado para ser o material de apoio do vídeo "Descomplicando GitHub Actions" no [canal da LINUXtips no YouTube](https://youtube.com/linuxtips). A ideia é que você possa codificar junto e aprender na prática.
 
-Desafio #1 executado por: Tiago de Oliveira
+Desafio #1 executado por: Tiago de Oliveira - 19-09
 
 ## O que você vai aprender
 
